@@ -1,1 +1,1 @@
-# data-analyst-nitish
+# Data-Analyst-Nitish
