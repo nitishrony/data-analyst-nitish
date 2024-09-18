@@ -15,6 +15,8 @@ The primary objective is to create a secure, scalable, and efficient data analyt
 - **Amazon S3 Buckets:**
   - **Landing Bucket:** Stores raw data as it is ingested from various sources.
   - ![AWS implementation result-1](https://github.com/user-attachments/assets/19617e2a-54d2-41bd-bed1-59e822dcf314)
+  - ![Screenshot 2024-08-19 095817](https://github.com/user-attachments/assets/75096c67-bc34-40f5-a80b-52f040617c31)
+
 
   - **Raw Bucket:** Contains data after initial cleaning and structuring.
  
