@@ -49,11 +49,12 @@ The primary objective is to create a secure, scalable, and efficient data analyt
 - **ETL Pipelines:**
   - **Pipeline: Academics Office - Landing to Raw:** Processes initial raw data for basic cleaning.
   - **Pipeline: Trusted to Curated:** Ensures only high-quality data is moved into the curated stage for analysis.
+  -   ![Screenshot 2024-08-27 140424](https://github.com/user-attachments/assets/8d927fb9-2032-4268-bf30-049ddbedc1f3)
 
 ### 3. Data Governance
 - **AWS Glue Data Catalog:**
   - Implemented AWS Glue Data Catalog to manage and maintain metadata for the datasets, facilitating easier data discovery and compliance with data governance policies.
-    ![Screenshot 2024-08-27 140424](https://github.com/user-attachments/assets/8d927fb9-2032-4268-bf30-049ddbedc1f3)
+  
     ![Screenshot 2024-08-27 140625](https://github.com/user-attachments/assets/7ffe5f83-64d7-49da-986c-0d6af9141062)
 
 
