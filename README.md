@@ -52,15 +52,12 @@ To secure data, automate data governance, and monitor platform performance effec
   ![image](https://github.com/user-attachments/assets/e1430082-56de-4f1b-9e9c-cb93b33ee0b5)
 
 
-  
-
 ### 4. Architecture Analysis and Optimization
 - **Operational Excellence:**  
   Utilized AWS CloudWatch for proactive monitoring and automation, enhancing operational workflows.
 - **Security and Reliability:**  
   Ensured data security with AWS KMS and improved reliability through S3 replication and versioning.
-- **Cost Optimization and Sustainability:**  
-  Monitored costs using AWS Cost Explorer and optimized storage with S3 Intelligent-Tiering to align with sustainability goals.
+
 
 ## Tools and Technologies
 - **AWS S3:** For secure data storage with encryption and replication.
