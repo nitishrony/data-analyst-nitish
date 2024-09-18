@@ -27,21 +27,37 @@ The primary objective of this project is to analyze burial data to identify patt
    
 2. **Data Cleaning:**  
    - Cleaned the dataset to remove missing or invalid values, ensuring data quality.
+   - ![image](https://github.com/user-attachments/assets/41129dd8-b281-4159-867b-247f6e2991ec)
+
    
 3. **Data Structuring:**  
    - Reorganized the dataset by renaming columns, adjusting data types, and extracting necessary information (e.g., year from burial dates).
+  
+   - ![image](https://github.com/user-attachments/assets/27db912b-fe87-4974-9348-866d86d9e7b9)
+
    
 4. **ETL Pipeline Design and Implementation:**  
    - Built an ETL pipeline using AWS Glue for data transformation, including schema changes and calculating burial percentages per decade.
+  
+   - ![image](https://github.com/user-attachments/assets/ea74dcbc-1deb-467c-a30a-68afc77a622c)
+
    
 5. **Data Analysis:**  
    - Used AWS Athena to run SQL queries on the curated dataset to calculate decade-wise burial percentages.
+  
+   - ![image](https://github.com/user-attachments/assets/df8aa745-c80b-4c45-9bba-915c6b3f5685)
+   - ![image](https://github.com/user-attachments/assets/3213b71b-7fca-4d47-925b-71e738d776e4)
+
    
 6. **Data Visualization:**  
    - Visualized the burial trends using Excel due to limitations with AWS QuickSight access.
+   - ![image](https://github.com/user-attachments/assets/fb3b71e6-92b9-431a-b851-59931bdd8e84)
+
    
 7. **Data Publishing:**  
    - Published results on AWS EC2 servers for internal and public access.
+   - ![image](https://github.com/user-attachments/assets/01731bc4-b203-4ea2-874b-2cef89e78194)
+
 
 ## Tools and Technologies
 - **AWS S3:** Data storage and management.
