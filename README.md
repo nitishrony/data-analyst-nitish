@@ -81,5 +81,4 @@ This phase of the project successfully integrated AWS services to secure, govern
 
 ## Author
 - **Nitish Rony**  
-- **Team Members:** Amit Rathore, Midhuna Sijoy, Sankeerthana Saini
 
