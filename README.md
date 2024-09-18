@@ -15,8 +15,7 @@ The primary objective of this project is to analyze burial data to identify patt
 
 
 ## Methodology
-
-![Screenshot 2024-09-17 170223](https://github.com/user-attachments/assets/92f9b220-b5f7-4f2f-8d38-fa5c0aec770f)
+- ![Screenshot 2024-09-17 170223](https://github.com/user-attachments/assets/92f9b220-b5f7-4f2f-8d38-fa5c0aec770f)
 
 1. **Data Collection and Ingestion:**  
    - Data ingested into AWS S3, organized in landing, raw, and curated folders.
