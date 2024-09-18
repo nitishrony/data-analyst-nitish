@@ -7,7 +7,6 @@ This project involves analyzing the burial patterns in the Mountain View Cemeter
 ## Objective
 The primary objective of this project is to analyze burial data to identify patterns and trends in burials across different decades, helping to understand changes over time.
 
-![Screenshot 2024-09-17 170223](https://github.com/user-attachments/assets/92f9b220-b5f7-4f2f-8d38-fa5c0aec770f)
 
 ## Dataset
 - **Source:** Mountain View Cemetery Burial Index from the City of Vancouver's open data portal.
@@ -16,8 +15,15 @@ The primary objective of this project is to analyze burial data to identify patt
 
 
 ## Methodology
+
+![Screenshot 2024-09-17 170223](https://github.com/user-attachments/assets/92f9b220-b5f7-4f2f-8d38-fa5c0aec770f)
+
 1. **Data Collection and Ingestion:**  
    - Data ingested into AWS S3, organized in landing, raw, and curated folders.
+   - ![image](https://github.com/user-attachments/assets/a0be5ddb-d1ff-4b72-a6fa-43a14f5f2df8)
+   - ![image](https://github.com/user-attachments/assets/daaf9df7-81f5-467b-bb6c-d120753d1704)
+
+
    
 2. **Data Cleaning:**  
    - Cleaned the dataset to remove missing or invalid values, ensuring data quality.
