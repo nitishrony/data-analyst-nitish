@@ -1,0 +1,302 @@
+[
+    {
+        "Student Name": "Jim Taylor",
+        "Student ID": "S1000",
+        "Email": "jim.taylor@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Anna Lee",
+        "Student ID": "S1001",
+        "Email": "anna.lee@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Lucy Anderson",
+        "Student ID": "S1002",
+        "Email": "lucy.anderson@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Sam Smith",
+        "Student ID": "S1003",
+        "Email": "sam.smith@school.edu",
+        "Reason for Absence": "Car trouble"
+    },
+    {
+        "Student Name": "Jane Brown",
+        "Student ID": "S1004",
+        "Email": "jane.brown@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Jim White",
+        "Student ID": "S1005",
+        "Email": "jim.white@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "John Johnson",
+        "Student ID": "S1006",
+        "Email": "john.johnson@school.edu",
+        "Reason for Absence": "Mental health day"
+    },
+    {
+        "Student Name": "John Doe",
+        "Student ID": "S1007",
+        "Email": "john.doe@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Eva Doe",
+        "Student ID": "S1008",
+        "Email": "eva.doe@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Sara Anderson",
+        "Student ID": "S1009",
+        "Email": "sara.anderson@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Sam Brown",
+        "Student ID": "S1010",
+        "Email": "sam.brown@school.edu",
+        "Reason for Absence": "Sick"
+    },
+    {
+        "Student Name": "Tom White",
+        "Student ID": "S1011",
+        "Email": "tom.white@school.edu",
+        "Reason for Absence": "Mental health day"
+    },
+    {
+        "Student Name": "Mike Smith",
+        "Student ID": "S1012",
+        "Email": "mike.smith@school.edu",
+        "Reason for Absence": "Religious observance"
+    },
+    {
+        "Student Name": "Lucy Johnson",
+        "Student ID": "S1013",
+        "Email": "lucy.johnson@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Sam Doe",
+        "Student ID": "S1014",
+        "Email": "sam.doe@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Sam Smith",
+        "Student ID": "S1015",
+        "Email": "sam.smith@school.edu",
+        "Reason for Absence": "Family emergency"
+    },
+    {
+        "Student Name": "Jane Doe",
+        "Student ID": "S1016",
+        "Email": "jane.doe@school.edu",
+        "Reason for Absence": "Travel"
+    },
+    {
+        "Student Name": "Eva Jackson",
+        "Student ID": "S1017",
+        "Email": "eva.jackson@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Sara Doe",
+        "Student ID": "S1018",
+        "Email": "sara.doe@school.edu",
+        "Reason for Absence": "Travel"
+    },
+    {
+        "Student Name": "Mike Anderson",
+        "Student ID": "S1019",
+        "Email": "mike.anderson@school.edu",
+        "Reason for Absence": "Mental health day"
+    },
+    {
+        "Student Name": "John Doe",
+        "Student ID": "S1020",
+        "Email": "john.doe@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Jim Smith",
+        "Student ID": "S1021",
+        "Email": "jim.smith@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Eva White",
+        "Student ID": "S1022",
+        "Email": "eva.white@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Lucy Brown",
+        "Student ID": "S1023",
+        "Email": "lucy.brown@school.edu",
+        "Reason for Absence": "Mental health day"
+    },
+    {
+        "Student Name": "Mike Jackson",
+        "Student ID": "S1024",
+        "Email": "mike.jackson@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Jim Anderson",
+        "Student ID": "S1025",
+        "Email": "jim.anderson@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Mike Doe",
+        "Student ID": "S1026",
+        "Email": "mike.doe@school.edu",
+        "Reason for Absence": "Family emergency"
+    },
+    {
+        "Student Name": "Lucy Jackson",
+        "Student ID": "S1027",
+        "Email": "lucy.jackson@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Lucy Lee",
+        "Student ID": "S1028",
+        "Email": "lucy.lee@school.edu",
+        "Reason for Absence": "Weather conditions"
+    },
+    {
+        "Student Name": "Eva Taylor",
+        "Student ID": "S1029",
+        "Email": "eva.taylor@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Mike White",
+        "Student ID": "S1030",
+        "Email": "mike.white@school.edu",
+        "Reason for Absence": "Weather conditions"
+    },
+    {
+        "Student Name": "Jane Brown",
+        "Student ID": "S1031",
+        "Email": "jane.brown@school.edu",
+        "Reason for Absence": "Family emergency"
+    },
+    {
+        "Student Name": "Eva Anderson",
+        "Student ID": "S1032",
+        "Email": "eva.anderson@school.edu",
+        "Reason for Absence": "Car trouble"
+    },
+    {
+        "Student Name": "Jane Doe",
+        "Student ID": "S1033",
+        "Email": "jane.doe@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Sara Jackson",
+        "Student ID": "S1034",
+        "Email": "sara.jackson@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Eva Lee",
+        "Student ID": "S1035",
+        "Email": "eva.lee@school.edu",
+        "Reason for Absence": "Travel"
+    },
+    {
+        "Student Name": "Lucy White",
+        "Student ID": "S1036",
+        "Email": "lucy.white@school.edu",
+        "Reason for Absence": "Car trouble"
+    },
+    {
+        "Student Name": "Jane Jackson",
+        "Student ID": "S1037",
+        "Email": "jane.jackson@school.edu",
+        "Reason for Absence": "Sick"
+    },
+    {
+        "Student Name": "Lucy Anderson",
+        "Student ID": "S1038",
+        "Email": "lucy.anderson@school.edu",
+        "Reason for Absence": "Mental health day"
+    },
+    {
+        "Student Name": "Sara Taylor",
+        "Student ID": "S1039",
+        "Email": "sara.taylor@school.edu",
+        "Reason for Absence": "Personal reasons"
+    },
+    {
+        "Student Name": "Sam Doe",
+        "Student ID": "S1040",
+        "Email": "sam.doe@school.edu",
+        "Reason for Absence": "Car trouble"
+    },
+    {
+        "Student Name": "John Taylor",
+        "Student ID": "S1041",
+        "Email": "john.taylor@school.edu",
+        "Reason for Absence": "Religious observance"
+    },
+    {
+        "Student Name": "Sara Jackson",
+        "Student ID": "S1042",
+        "Email": "sara.jackson@school.edu",
+        "Reason for Absence": "Travel"
+    },
+    {
+        "Student Name": "Tom Thomas",
+        "Student ID": "S1043",
+        "Email": "tom.thomas@school.edu",
+        "Reason for Absence": "Religious observance"
+    },
+    {
+        "Student Name": "Jane Doe",
+        "Student ID": "S1044",
+        "Email": "jane.doe@school.edu",
+        "Reason for Absence": "Weather conditions"
+    },
+    {
+        "Student Name": "Eva White",
+        "Student ID": "S1045",
+        "Email": "eva.white@school.edu",
+        "Reason for Absence": "School event"
+    },
+    {
+        "Student Name": "Mike Doe",
+        "Student ID": "S1046",
+        "Email": "mike.doe@school.edu",
+        "Reason for Absence": "Medical appointment"
+    },
+    {
+        "Student Name": "Mike Taylor",
+        "Student ID": "S1047",
+        "Email": "mike.taylor@school.edu",
+        "Reason for Absence": "Car trouble"
+    },
+    {
+        "Student Name": "Lucy Anderson",
+        "Student ID": "S1048",
+        "Email": "lucy.anderson@school.edu",
+        "Reason for Absence": "Weather conditions"
+    },
+    {
+        "Student Name": "Tom Jackson",
+        "Student ID": "S1049",
+        "Email": "tom.jackson@school.edu",
+        "Reason for Absence": "Medical appointment"
+    }
+]
